@@ -10,5 +10,14 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Estimating canopy water content of poplar plantation from MIVIS data</title>
+      <link>https://yinjunjun.github.io/publication/test/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinjunjun.github.io/publication/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
