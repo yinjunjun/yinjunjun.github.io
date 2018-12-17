@@ -4,14 +4,6 @@
     
     <url>
     
-      <loc>https://yinjunjun.github.io/publication/yin_spatial_interaction/</loc>
-      <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://yinjunjun.github.io/publication/yin_twitter_population/</loc>
       <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     </url>
@@ -52,9 +44,23 @@
     
     <url>
     
+      <loc>https://yinjunjun.github.io/publication/yin_spatial_interaction/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://yinjunjun.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yinjunjun.github.io/publication/gao_spatial_event_twitter/</loc>
     </url>
     
   
