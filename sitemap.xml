@@ -12,6 +12,46 @@
     
     <url>
     
+      <loc>https://yinjunjun.github.io/publication/jeong_data_depth/</loc>
+      <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yinjunjun.github.io/publication/gao_spatial_event_twitter/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yinjunjun.github.io/publication/soliman_twitter/</loc>
+      <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yinjunjun.github.io/publication/zheng_topo/</loc>
+      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yinjunjun.github.io/publication/yin_spatial_interaction/</loc>
+      <lastmod>2017-03-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://yinjunjun.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -36,15 +76,16 @@
     
     <url>
     
-      <loc>https://yinjunjun.github.io/categories/</loc>
-      <priority>0</priority>
+      <loc>https://yinjunjun.github.io/publication/yin_multi_scale/</loc>
+      <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://yinjunjun.github.io/publication/yin_spatial_interaction/</loc>
+      <loc>https://yinjunjun.github.io/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -54,13 +95,6 @@
       <loc>https://yinjunjun.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://yinjunjun.github.io/publication/gao_spatial_event_twitter/</loc>
     </url>
     
   

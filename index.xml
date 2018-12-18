@@ -20,20 +20,56 @@
     </item>
     
     <item>
-      <title>Delineate Urban Boundaries in Great Britain from the Network of Large Scale Twitter User Spatial Interactions</title>
-      <link>https://yinjunjun.github.io/publication/yin_spatial_interaction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Outlier Detection and Comparison of Origin-Destination Flows Using Data Depth</title>
+      <link>https://yinjunjun.github.io/publication/jeong_data_depth/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yinjunjun.github.io/publication/yin_spatial_interaction/</guid>
+      <guid>https://yinjunjun.github.io/publication/jeong_data_depth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping Spatiotemporal Patterns of Events Using Social Media: A Case Study of Influenza Trends</title>
       <link>https://yinjunjun.github.io/publication/gao_spatial_event_twitter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yinjunjun.github.io/publication/gao_spatial_event_twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social sensing of urban land use based on analysis of Twitter users’ mobility patterns</title>
+      <link>https://yinjunjun.github.io/publication/soliman_twitter/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinjunjun.github.io/publication/soliman_twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Topology-concerned Spatial Vector Data Model for Column-oriented Databases</title>
+      <link>https://yinjunjun.github.io/publication/zheng_topo/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinjunjun.github.io/publication/zheng_topo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delineate Urban Boundaries in Great Britain from the Network of Large Scale Twitter User Spatial Interactions</title>
+      <link>https://yinjunjun.github.io/publication/yin_spatial_interaction/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinjunjun.github.io/publication/yin_spatial_interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Multi-Scale Spatiotemporal Twitter User Mobility Patterns with a Visual-Analytics Approach</title>
+      <link>https://yinjunjun.github.io/publication/yin_multi_scale/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinjunjun.github.io/publication/yin_multi_scale/</guid>
       <description></description>
     </item>
     
