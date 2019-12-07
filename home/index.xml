@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junjun Yin</title>
-    <link>https://yinjunjun.github.io/home/</link>
+    <link>https://yinjunjun.github.io/</link>
     <description>Junjun Yin's homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -27,7 +27,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://yinjunjun.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description></description>
     </item>
     
     <item>
