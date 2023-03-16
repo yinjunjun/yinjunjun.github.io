@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Geo-Complexity in Human-Urban Interactions</title>
+    <link>https://junjunyin.com/authors/</link>
+      <atom:link href="https://junjunyin.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Updated 2023 © Junjun Yin </copyright><lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junjunyin.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://junjunyin.com/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

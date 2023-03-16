@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial statistics | Geo-Complexity in Human-Urban Interactions</title>
+    <link>https://junjunyin.com/tag/spatial-statistics/</link>
+      <atom:link href="https://junjunyin.com/tag/spatial-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatial statistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Updated 2023 © Junjun Yin </copyright><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junjunyin.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>spatial statistics</title>
+      <link>https://junjunyin.com/tag/spatial-statistics/</link>
+    </image>
+    
+    <item>
+      <title>Outlier Detection and Comparison of Origin-Destination Flows Using Data Depth</title>
+      <link>https://junjunyin.com/publication/jeong_data_depth/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/jeong_data_depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Spatiotemporal Patterns of Events Using Social Media: A Case Study of Influenza Trends</title>
+      <link>https://junjunyin.com/publication/gao_spatial_event_twitter/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/gao_spatial_event_twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

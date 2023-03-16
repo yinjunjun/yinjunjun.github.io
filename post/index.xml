@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Geo-Complexity</title>
-    <link>https://yinjunjun.github.io/post/</link>
-    <description>Recent content in Posts on Geo-Complexity</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://yinjunjun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Posts | Geo-Complexity in Human-Urban Interactions</title>
+    <link>https://junjunyin.com/post/</link>
+      <atom:link href="https://junjunyin.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Updated 2023 © Junjun Yin </copyright>
+    <image>
+      <url>https://junjunyin.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://junjunyin.com/post/</link>
+    </image>
     
   </channel>
 </rss>

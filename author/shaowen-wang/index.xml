@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaowen Wang | Geo-Complexity in Human-Urban Interactions</title>
+    <link>https://junjunyin.com/author/shaowen-wang/</link>
+      <atom:link href="https://junjunyin.com/author/shaowen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaowen Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Updated 2023 © Junjun Yin </copyright><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junjunyin.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Shaowen Wang</title>
+      <link>https://junjunyin.com/author/shaowen-wang/</link>
+    </image>
+    
+    <item>
+      <title>Outlier Detection and Comparison of Origin-Destination Flows Using Data Depth</title>
+      <link>https://junjunyin.com/publication/jeong_data_depth/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/jeong_data_depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Spatiotemporal Patterns of Events Using Social Media: A Case Study of Influenza Trends</title>
+      <link>https://junjunyin.com/publication/gao_spatial_event_twitter/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/gao_spatial_event_twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CyberGIS-enabled urban sensing from volunteered citizen participation using mobile devices</title>
+      <link>https://junjunyin.com/publication/yin_cybergis/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/yin_cybergis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social sensing of urban land use based on analysis of Twitter users’ mobility patterns</title>
+      <link>https://junjunyin.com/publication/soliman_twitter/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/soliman_twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depicting urban boundaries from a mobility network of spatial interactions: A case study of Great Britain with geo-located Twitter data</title>
+      <link>https://junjunyin.com/publication/yin_spatial_interaction/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/yin_spatial_interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Multi-Scale Spatiotemporal Twitter User Mobility Patterns with a Visual-Analytics Approach</title>
+      <link>https://junjunyin.com/publication/yin_multi_scale/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://junjunyin.com/publication/yin_multi_scale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
