@@ -1,0 +1,110 @@
+---
+title: "Junjun Yin"
+subtitle: |
+    Assistant Professor \
+    Department of Data Science \
+    Columbian College of Arts & Sciences \ 
+    George Washington University
+description-meta: "Geo-Complexity in Human-Urban Interactions"
+image: "files/images/portrait.JPG"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 50%
+  links:
+    # - icon: sun
+    #   text: Lab
+    #   href: https://www.github.com
+    #   target: _blank
+    - icon: globe
+      text: Uprofile
+      href: https://datasci.columbian.gwu.edu/junjun-yin
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:j.yin AT gwu.edu    
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    #   target: _blank
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com     
+    #   target: _blank 
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org/0000-0002-4196-2439
+      target: _blank
+    # - text: "{{< ai clarivate >}} Web of Science"
+    #   href: https://www.webofscience.com  
+    #   target: _blank
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com
+    #   target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=LW01O2YAAAAJ&hl=en
+      target: _blank
+#    - text: "{{< ai researchgate >}} Research Gate"
+#      href: https://www.researchgate.net
+#      target: _blank
+
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
+---
+
+::: {#hero-heading}
+I am an Assistant Professor in the Department of Data Science at George Washington University. Previously, I was an Assistant Research Professor at Penn State’s Social Science Research Institute and Population Research Institute, an Associate at its Institute for Computational and Data Sciences. I also served as a postdoctoral fellow at the CyberGIS Center for Advanced Digital and Spatial Studies at the National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign.
+
+My research bridges Geographic Information Science (GIScience), Geospatial Data Science, and Computational Social Science, with a focus on tackling complex social and environmental challenges. My research explores the spatiotemporal dynamics of human behavior and urban systems, particularly how geographic contexts influence decision-making and shape patterns of mobility, accessibility, and urban living. By leveraging massive geospatial datasets, including social media posts, remote sensing imagery, and mobility traces, I develop data-driven insights into human-environment interactions in rapidly changing urban environments. My methodological expertise includes spatial data mining, geovisual analytics, and the integration of AI techniques such as machine learning and deep learning with geographic data. I also utilize high-performance and distributed computing to enable scalable analysis of geospatial big data.
+
+## Research Interests
+
+- GIScience, Geospatial Data Science, Computational Social Science, Spatial Analysis and Modelling, Geo-Complexity, Human Mobility
+
+## Education
+
+-   Postdoc in GIScience, 2016, University of Illinois at Urbana-Champaign,
+-   Ph.D in Spatial Information Science, 2013, Dublin Institute of Technology
+
+## Experience
+
+- Assistant Research Professor, Social Science Research Institute and Population Research Institute, Pennsylvania State University, 2019 - 2025
+- Associate, Institute for Computational and Data Sciences, Pennsylvania State University, 2018 - 2025
+- Social Science Big Data Research Scientist, Pennsylvania State University, 2016 - 2018
+- Lecturer, University of Illinois at Urbana-Champaign, 2016
+
+<!-- ::: -->
+
+<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+
+<!-- ## Recent Posts -->
+
+<!-- Check out the latest  [Papers](posts.qmd#category=paper)  -->
+<!-- ,  [News](posts.qmd#category=news) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd) -->
+
+<!-- ::: {#recent-posts} -->
+<!-- ::: -->
+
+<!-- <p align="right"> -->
+
+<!-- [All Posts »](/posts.qmd) -->
+
+<!-- </p> -->

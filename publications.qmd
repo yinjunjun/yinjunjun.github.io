@@ -1,0 +1,57 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+page-layout: full
+back-to-top-navigation: true
+title-block-banner: false
+css: custom.css
+---
+
+
+<!--Include academic icons or buttons-->
+{{< include /files/includes/_academic.qmd >}}
+
+<!-- Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)  -->
+
+### Full publication list 
+#### {{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=LW01O2YAAAAJ&hl=en)
+
+<!-- Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div> -->
+
+<center><hr style="width:100%"></center>
+
+## Selected Work
+
+**Yin, J.**, Chi, G., & Jiang, B. (2025). Unlocking the secrets of scenic beauty: a quantitative analysis of object variety and connections in scenic images. Journal of the Royal Society Interface, 22(225), 20250045.
+
+**Yin, J.**, Brooks, M., Wang, D., & Chi, G. (2025). Characterizing climate change sentiments in alaska on social media. Digital geography and society, 8, 100110.
+
+Sundar, S. S., Snyder, E. C., Liao, M., **Yin, J.**, Wang, J., & Chi, G. (2025). Sharing without clicking on news in social media. Nature Human Behaviour, 9(1), 156-168.
+
+Liang, Y., **Yin, J.**, Park, S., Pan, B., Chi, G., & Miller, Z. (2023). Using social media user profiles to identify visitor demographics and origins in Yellowstone national park. Journal of Outdoor Recreation and Tourism, 44, 100620.
+
+**Yin, J.**, Gao, Y., & Chi, G. (2022). An evaluation of geo-located Twitter data for measuring human migration. International Journal of Geographical Information Science, 36(9), 1830-1852.
+
+**Yin, J.**, & Chi, G. (2022). A tale of three cities: uncovering human-urban interactions with geographic-context aware social media data. Urban Informatics, 1(1), 20.
+
+**Yin, J.**, & Chi, G. (2021). Characterizing people’s daily activity patterns in the urban environment: A mobility network approach with geographic context-aware twitter data. Annals of the American Association of Geographers, 111(7), 1967-1987.
+
+**Yin, J.**, Soliman, A., Yin, D., & Wang, S. (2017). Depicting urban boundaries from a mobility network of spatial interactions: a case study of Great Britain with geo-located Twitter data. International Journal of Geographical Information Science, 31(7), 1293-1313.
+
+Jiang, B., & **Yin, J.** (2014). Ht-index for quantifying the fractal or scaling structure of geographic features. Annals of the Association of American Geographers, 104(3), 530-540.
+
+Jiang, B., **Yin, J.**, & Zhao, S. (2009). Characterizing the human mobility pattern in a large street network. Physical Review E—Statistical, Nonlinear, and Soft Matter Physics, 80(2), 021136.
+
+
+<!-- Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>      -->
+
+
+<!-- <center><hr style="width:100%"></center> -->
+
+<!-- Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div> -->
+
+
+
+<!--Include social share buttons-->
+
+<!-- {{< include /files/includes/_socialshare.qmd >}} -->
