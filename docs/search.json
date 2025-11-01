@@ -7,13 +7,6 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Google Scholar\nYin, J., Chi, G., & Jiang, B. (2025). Unlocking the secrets of scenic beauty: a quantitative analysis of object variety and connections in scenic images. Journal of the Royal Society Interface, 22(225), 20250045.\nYin, J., Brooks, M., Wang, D., & Chi, G. (2025). Characterizing climate change sentiments in alaska on social media. Digital geography and society, 8, 100110.\nDjenontin, I. N., Fischer, H. W., Yin, J., & Chi, G. (2025). Unveiling global narratives of restoration policy: Big data insights into competing framings and implications. Geoforum, 161, 104241.\nSundar, S. S., Snyder, E. C., Liao, M., Yin, J., Wang, J., & Chi, G. (2025). Sharing without clicking on news in social media. Nature Human Behaviour, 9(1), 156-168.\nChi, G., Zhou, S., Mucioki, M., Miller, J., Korkut, E., Howe, L., … & Tickamyer, A. (2024). Climate impacts on migration in the Arctic North America: existing evidence and research recommendations. Regional Environmental Change, 24(2), 47.\nLiang, Y., Yin, J., Park, S., Pan, B., Chi, G., & Miller, Z. (2023). Using social media user profiles to identify visitor demographics and origins in Yellowstone national park. Journal of Outdoor Recreation and Tourism, 44, 100620."
-  },
-  {
     "objectID": "publications.html#selected-work",
     "href": "publications.html#selected-work",
     "title": "Publications",
@@ -98,11 +91,11 @@
     "text": "Uprofile\n  \n  \n    \n     E-mail\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n\n  \n  \nI am an Assistant Professor in the Department of Data Science at George Washington University. Previously, I was an Assistant Research Professor at Penn State’s Social Science Research Institute and Population Research Institute, an Associate at its Institute for Computational and Data Sciences. I also served as a postdoctoral fellow at the CyberGIS Center for Advanced Digital and Spatial Studies at the National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign.\nMy research bridges Geographic Information Science (GIScience), Geospatial Data Science, and Computational Social Science, with a focus on tackling complex social and environmental challenges. My research explores the spatiotemporal dynamics of human behavior and urban systems, particularly how geographic contexts influence decision-making and shape patterns of mobility, accessibility, and urban living. By leveraging massive geospatial datasets, including social media posts, remote sensing imagery, and mobility traces, I develop data-driven insights into human-environment interactions in rapidly changing urban environments. My methodological expertise includes spatial data mining, geovisual analytics, and the integration of AI techniques such as machine learning and deep learning with geographic data. I also utilize high-performance and distributed computing to enable scalable analysis of geospatial big data.\n\n\n\nGIScience, Geospatial Data Science, Computational Social Science, Spatial Analysis and Modelling, Geo-Complexity, Human Mobility\n\n\n\n\n\nPostdoc in GIScience, 2016, University of Illinois at Urbana-Champaign,\nPh.D in Spatial Information Science, 2013, Dublin Institute of Technology\n\n\n\n\n\nAssistant Research Professor, Social Science Research Institute and Population Research Institute, Pennsylvania State University, 2019 - 2025\nAssociate, Institute for Computational and Data Sciences, Pennsylvania State University, 2018 - 2025\nSocial Science Big Data Research Scientist, Pennsylvania State University, 2016 - 2018\nLecturer, University of Illinois at Urbana-Champaign, 2016"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "Junjun Yin",
     "section": "",
-    "text": "Assistant Research Professor, Social Science Research Institute and Population Research Institute, Pennsylvania State University, 2019 - 2025\nAssociate, Institute for Computational and Data Sciences, Pennsylvania State University, 2018 - 2025\nSocial Science Big Data Research Scientist, Pennsylvania State University, 2016 - 2018\nLecturer, University of Illinois at Urbana-Champaign, 2016"
+    "text": "GIScience, Geospatial Data Science, Computational Social Science, Spatial Analysis and Modelling, Geo-Complexity, Human Mobility"
   },
   {
     "objectID": "index.html#education",
@@ -112,11 +105,11 @@
     "text": "Postdoc in GIScience, 2016, University of Illinois at Urbana-Champaign,\nPh.D in Spatial Information Science, 2013, Dublin Institute of Technology"
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Junjun Yin, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers"
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Junjun Yin",
+    "section": "",
+    "text": "Assistant Research Professor, Social Science Research Institute and Population Research Institute, Pennsylvania State University, 2019 - 2025\nAssociate, Institute for Computational and Data Sciences, Pennsylvania State University, 2018 - 2025\nSocial Science Big Data Research Scientist, Pennsylvania State University, 2016 - 2018\nLecturer, University of Illinois at Urbana-Champaign, 2016"
   },
   {
     "objectID": "people.html",
@@ -138,12 +131,5 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Junjun Yin",
-    "section": "",
-    "text": "GIScience, Geospatial Data Science, Computational Social Science, Spatial Analysis and Modelling, Geo-Complexity, Human Mobility"
   }
 ]
